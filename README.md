@@ -7,7 +7,7 @@ Está desarrollado en Python. El jugador elige su opción y el programa seleccio
 
 Uso de Diccionarios y Listas: Se utiliza un diccionario para mapear las opciones del juego y una lista para generar la selección aleatoria del oponente.
 
-Generación de Números Aleatorios: Se utiliza la función random.randint() para generar la selección aleatoria del oponente.
+Importación de Libreria: Se utiliza la función random.randint() para generar la selección aleatoria del oponente.
 
 Estructuras de Control: El juego utiliza bucles while y declaraciones if-elif-else para manejar la lógica del juego y las decisiones del jugador.
 
