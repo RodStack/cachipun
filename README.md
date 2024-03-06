@@ -1,9 +1,9 @@
-# cachipun
+# Cachipun
 Es un juego de piedra papel y tijeras y utilizando diccionarios, funciones recursivas e importación de libreria.
 
 Está desarrollado en Python. El jugador elige su opción y el programa selecciona una opción aleatoria para el oponente.
 
-Habilidades Utilizadas:
+##Habilidades Utilizadas:
 
 Uso de Diccionarios y Listas: Se utiliza un diccionario para mapear las opciones del juego y una lista para generar la selección aleatoria del oponente.
 
